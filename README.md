@@ -1,8 +1,8 @@
 # AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods
-Honkai Impact 3rd Mods Render DirectX (3DMigoto)
+### Honkai Impact 3rd Mods Render DirectX (3DMigoto)
 
 *Assets original if you want learn or try mods!* --->
-![OOOOHH MAY GAHHH VIRUS REALL😱💯💯](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods)
+[OOOOHH MAY GAHHH VIRUS REALL😱💯💯](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods)
 
 HIMI: Honkai Impact Model Importer (PVT = Private)
 
@@ -30,3 +30,5 @@ make your best mods and upload here!
 Contact me: MAnggiarMustofa#0359 if there's problem i will try fix it as i can :) *(no promise!)*
 
 Contact Silent if 3DMigoto have problem on Honkai or Genshin Or Star Rail etc: SilentNightSound#7430
+
+### You may want to use [DownGit](https://minhaskamal.github.io/DownGit/#/home) to download individual files that you need instead of cloning the entire repository
