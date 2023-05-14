@@ -2,7 +2,7 @@
 ### Honkai Impact 3rd Mods Render DirectX (3DMigoto)
 
 *Assets original if you want learn or try mods!* --->
-[OOOOHH MAY GAHHH VIRUS REALL😱💯💯](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods)
+[OOOOHH MAY GAHHH VIRUS REALL😱💯💯](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets)
 
 HIMI: Honkai Impact Model Importer (PVT = Private)
 
