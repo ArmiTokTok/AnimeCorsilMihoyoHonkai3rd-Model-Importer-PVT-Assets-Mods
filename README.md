@@ -2,10 +2,16 @@
 Honkai Impact 3rd Mods Render DirectX (3DMigoto)
 
 HIMI: Honkai Impact Model Importer (PVT = Private)
+
 *RULES PLISS READD!!*
 (only) *1: DON'T SHARE FOOTAGE MODS OF SCREENSHOT OR VIDEO TO PUBLIC* 
+
 if you do this there will be consequences that 3dmigoto for honkai can be fixed by Da Wei/Mihoyo like Honkai 3rds mods long ago
-dont repeat same mistake!
+*dont 
+repeat 
+same 
+mistake!*
+
 make your best mods and upload here!
 ![Autodesk Flow Design Screenshot 2023 05 12 - 15 57 49 51](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods/assets/115152799/db48f7d0-d2a6-4992-ade6-c87eb32f462b)
 
