@@ -16,9 +16,11 @@ same
 mistake!*
 
 make your best mods and upload here!
+## CHARACTERMODS
 ![Autodesk Flow Design Screenshot 2023 05 12 - 15 57 49 51](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods/assets/115152799/db48f7d0-d2a6-4992-ade6-c87eb32f462b)
-
 ![image](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods/assets/115152799/f57b12a8-6d52-46ee-ad1b-8497ab389c46)
+
+## ENEMYMODS
 ![image](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods/assets/115152799/483ea6b8-09ad-471a-acbc-9d8197c94962)
 
 
